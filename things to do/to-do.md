@@ -4,11 +4,12 @@
 - finish unit tests
 - refactor tests, ensure code is clean (ie: before all...) 
 - finish google autocomplete
-- for form page: think about merging states into one big state
-
+- for form page: think about merging states into one big stat
+- finish db routes
 
 ### harvard cs50
-- finish lecture 1 and submit first assignment (hopefully by april 29?)
+- finish lecture 1 (hopefully by may 3?)
+- submit first assignment (hopefully by may 3?)
 
 ### misc dev things
 - 1 git commit/day
