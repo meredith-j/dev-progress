@@ -10,3 +10,4 @@
 - learned about devops infrastructure for personal projects vs company environments (things like staging, doing a hot fix vs adding a new feature, etc)
 - learned about mock data & mock data files that can be imported into multiple test files
 - learned that a good rule for test coverage is "each line of code should be included in one test at minimum (can be more tests depending on project complexity)"
+- when writing tests (in jest/react testing library) for async functions, you need to specify in the test that the function is async & when to await. see GAP form validation test for syntax
