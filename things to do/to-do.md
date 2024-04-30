@@ -10,6 +10,7 @@
 ### harvard cs50
 - finish lecture 1 (hopefully by may 3?)
 - submit first assignment (hopefully by may 3?)
+- start lecture 2
 
 ### misc dev things
 - 1 git commit/day
