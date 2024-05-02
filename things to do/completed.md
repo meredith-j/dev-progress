@@ -1,5 +1,5 @@
 ### may 2024
-*days of git commits in may: 0*
+*days of git commits in may: 1*
 
 ### april 2024 (starting april 25 2024)
 *days of git commits in april (starting from the 25): 5*

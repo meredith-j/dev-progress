@@ -1,4 +1,7 @@
-*WHEN IN DOUBT, ALWAYS READY THE DOCUMENTATION*
+*WHEN IN DOUBT, ALWAYS READ THE DOCUMENTATION*
+
+### may 2024
+- don't code when you're sick, you'll ruin everything :|
 
 ### april 2024
 - i learned a better way to test form validation & button functions (ie clicking submit button and handlesubmit function runs).
