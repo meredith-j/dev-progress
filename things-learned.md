@@ -2,6 +2,9 @@
 
 ### may 2024
 - don't code when you're sick, you'll ruin everything :|
+- how to handle tests for async functions
+- generally learned how to think like a developer, specifically with UI tests
+- 
 
 ### april 2024
 - i learned a better way to test form validation & button functions (ie clicking submit button and handlesubmit function runs).

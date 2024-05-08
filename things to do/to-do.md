@@ -4,12 +4,12 @@
 - finish unit tests
 - refactor tests, ensure code is clean (ie: before all...) 
 - finish google autocomplete
-- for form page: think about merging states into one big stat
+- for form page: think about merging states into one big state
 - finish db routes
 
 ### harvard cs50
-- finish lecture 1 (hopefully by may 3?)
-- submit first assignment (hopefully by may 3?)
+- finish lecture 1 (hopefully by may 10?)
+- submit first assignment (hopefully by may 10?)
 - start lecture 2
 
 ### misc dev things
@@ -18,6 +18,9 @@
 - add vscode extension "to do" (whenever you type in any file TO DO (all caps), no matter what file, it changes the colour of your file so you can go back to it)
 - learn difference between git pull/git rebase
 - ASAP on may 2: schedule discovery call for new freelance work
+- submit internship application
+- send reference info
+- 
 
 
 ### reminder for testing GAP
