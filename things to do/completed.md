@@ -1,7 +1,11 @@
 ### may 2024
-*days of git commits in may: 4*
+*days of git commits in may: 5*
 - finished form validation tests
 - reached out to hr person re: internship
+- ASAP on may 2: schedule discovery call for new freelance work
+- submit internship application
+- sent reference info
+- finished coding assessment
 
 
 ### april 2024 (starting april 25 2024)
