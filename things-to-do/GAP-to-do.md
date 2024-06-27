@@ -1,25 +1,12 @@
-*in no order*
 
-### grow a pear
+### important next steps
 - finish unit tests
 - refactor tests, ensure code is clean (ie: before all...) 
 - finish google autocomplete
 - for form page: think about merging states into one big state
 - finish db routes (GET request)
 
-### harvard cs50
-- finish lecture 1 (hopefully by may 10?)
-- submit first assignment (hopefully by may 10?)
-- start lecture 2
-
-### misc dev things
-- 1 git commit/day
-- submit resume to general application for that cool health tech job (iykyk), connect with recruiter
-- add vscode extension "to do" (whenever you type in any file TO DO (all caps), no matter what file, it changes the colour of your file so you can go back to it)
-- learn difference between git pull/git rebase
-
-
-### reminder for testing GAP
+### reminder for testing
 - before each (render Page)
 - before each/after each (look into syntax)
 - describe -- validation

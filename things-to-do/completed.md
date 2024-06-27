@@ -1,6 +1,9 @@
 ### june 2024
-*days of git commits in june: 1*
-- 
+*days of git commits in june: 5*
+- signed new contract
+- collision
+- so. much. networking. (miri, QT, cohere!!)
+- learning vue! and nuxt!
 
 ### may 2024
 *days of git commits in may: 5*
