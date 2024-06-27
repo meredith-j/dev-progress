@@ -1,6 +1,9 @@
 *WHEN IN DOUBT, ALWAYS READ THE DOCUMENTATION*
 
 ### may 2024
+-
+
+### may 2024
 - don't code when you're sick, you'll ruin everything :|
 - how to handle tests for async functions
 - generally learned how to think like a developer, specifically with UI tests

@@ -5,7 +5,7 @@
 - refactor tests, ensure code is clean (ie: before all...) 
 - finish google autocomplete
 - for form page: think about merging states into one big state
-- finish db routes
+- finish db routes (GET request)
 
 ### harvard cs50
 - finish lecture 1 (hopefully by may 10?)

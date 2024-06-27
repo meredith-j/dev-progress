@@ -1,3 +1,7 @@
+### june 2024
+*days of git commits in june: 1*
+- 
+
 ### may 2024
 *days of git commits in may: 5*
 - finished form validation tests
