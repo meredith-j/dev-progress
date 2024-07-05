@@ -1,4 +1,7 @@
 ### june 2024
+*days of git commits in july: 1*
+
+### june 2024
 *days of git commits in june: 5*
 - signed new contract
 - collision
