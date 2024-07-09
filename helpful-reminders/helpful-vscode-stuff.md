@@ -1,0 +1,1 @@
+- Open keyboard shortcut settings: ⌘K ⌘S

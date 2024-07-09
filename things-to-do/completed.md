@@ -1,5 +1,8 @@
-### june 2024
-*days of git commits in july: 1*
+### july 2024
+*days of git commits in july: 5*
+- PD-98-toasts-not-clickable: commit minor changes/refactors of toast CSS
+- write novel about why the toast notification bug is not straightforward on jira (add screen grab of what isn't working properly) and move ticket back to ready (from "in progress")
+
 
 ### june 2024
 *days of git commits in june: 5*
@@ -7,6 +10,7 @@
 - collision
 - so. much. networking. (miri, QT, cohere!!)
 - learning vue! and nuxt!
+
 
 ### may 2024
 *days of git commits in may: 5*
