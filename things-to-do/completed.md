@@ -1,8 +1,12 @@
 ### july 2024
-*days of git commits in july: 5*
-- PD-98-toasts-not-clickable: commit minor changes/refactors of toast CSS
+*days of git commits in july: 9*
+- work/PD-98-toasts-not-clickable: commit minor changes/refactors of toast CSS
 - write novel about why the toast notification bug is not straightforward on jira (add screen grab of what isn't working properly) and move ticket back to ready (from "in progress")
-
+- work/decide on min screen width
+- work/started documentation
+- work/add screen size min to documentation
+- work/PD-91 (correct date format)
+- work/PD-111 (update logo)
 
 ### june 2024
 *days of git commits in june: 5*
