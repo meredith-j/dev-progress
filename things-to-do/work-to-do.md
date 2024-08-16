@@ -4,5 +4,7 @@
 - add docker commands to documentation?
 - add icon export to documentation
 - add pnpm db stuff/refer to readme in documentation for people working on db stuff
-- PD-112 (CTA)
-- PD-116 (send assessment to patient)
+- finish: PD-55/usability testing issues
+- start: PD-23/Add disclaimer to 'About you' assessment form fields
+- start: PD-117/add process page to patient onboarding (missing info?)
+- review all remaining PRs
