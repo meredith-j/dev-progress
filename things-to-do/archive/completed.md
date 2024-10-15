@@ -1,9 +1,17 @@
+### september 2024
+*days of git commits in september: 4*
+- harvard cs50 lecture 1
+
 ### august 2024
-*days of git commits in august: 1*
+*days of git commits in august: 12*
 - review PR comments: PD-112 (CTA)
 - started: PD-116 (send assessment to patient)
 - started: PD-55/usability testing issues
+- PD-117/add process page to patient onboarding (missing info?)
 - completed PD-112 (CTA)
+- finish: PD-120/Add disclaimer to 'About you' assessment form fields
+- finish: PD-117/add process page to patient onboarding (missing info?)
+
 
 ### july 2024
 *days of git commits in july: 10*
