@@ -14,3 +14,4 @@ hard skills
 - vue in general
 - git rebase
 - debugging git issues
+- kysely
