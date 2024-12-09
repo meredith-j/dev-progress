@@ -15,3 +15,12 @@ hard skills
 - git rebase
 - debugging git issues
 - kysely
+
+
+jan 2025:
+- 2d arrays/generally more backend knowledge
+- path to intermediate dev
+- finish cs50
+- would love another course after cs50, but what?
+- at least one public speaking engagement in 2025
+- more regular contact with my network
